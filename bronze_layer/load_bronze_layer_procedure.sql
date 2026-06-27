@@ -167,5 +167,3 @@ BEGIN
 				PRINT '=======================================';
 		END CATCH
 END
-
-EXEC bronze.load_bronze;
