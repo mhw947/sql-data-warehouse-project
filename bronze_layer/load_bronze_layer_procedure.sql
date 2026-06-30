@@ -101,6 +101,8 @@ BEGIN
 
 				FIELDTERMINATOR = ',',
 
+				ROWTERMINATOR = '\r\n',
+
 				TABLOCK
 
 				);
@@ -123,6 +125,8 @@ BEGIN
 
 				FIELDTERMINATOR = ',',
 
+				ROWTERMINATOR = '\r\n',
+
 				TABLOCK
 
 				);
@@ -144,6 +148,8 @@ BEGIN
 				FIRSTROW = 2,
 
 				FIELDTERMINATOR = ',',
+
+				ROWTERMINATOR = '\r\n',
 
 				TABLOCK
 
